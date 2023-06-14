@@ -1,0 +1,39 @@
+REACT
+
+npm install -g yarn
+
+npx create-react-app my-first-react (대문자 사용X, snake 표기법 사용)
+
+npx 압축파일 버전이 낮아서 업데이트 해라
+npm install tar@6 -g
+
+cd my-first-react
+
+npm start 또는 yarn start
+
+관리자 권한 변경
+
+ExecutionPolicy
+Set-ExecutionPolicy Unrestricted
+
+build
+
+npm run build
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

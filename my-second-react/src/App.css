@@ -1,0 +1,26 @@
+*{box-sizing: border-box;}
+body{
+  font-size: 16px;
+  color: #000;
+  margin: 0;
+}
+.header{
+  height: 90px;
+  background-color: #ededed;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 30px;
+}
+.footer{
+  height: 100px;
+  background-color: #333;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  padding-top: 30px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}

@@ -1,0 +1,7 @@
+React
+
+web -- server
+
+ pop3 -- 이메일을 받기
+
+ smtp -- 이메일 전송

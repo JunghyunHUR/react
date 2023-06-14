@@ -1,0 +1,32 @@
+REACT
+
+Hook
+
+useState -->
+
+	const [a, setA] = useState(10);
+
+	setA(11);
+
+useEffect -->
+
+	useEffect(() => {}, [a]);
+
+useRef
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

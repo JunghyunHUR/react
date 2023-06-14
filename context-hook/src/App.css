@@ -1,0 +1,46 @@
+*{box-sizing: border-box;}
+html, body{
+  height: 100%;
+}
+#root{
+  height: 100%;
+}
+body{
+  margin: 0;
+}
+.page{
+  height: calc(100% - 74px);
+}
+h1{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.header{
+  padding: 15px;
+  border-bottom: 1px solid #999;
+}
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  font-size: 18px;
+  text-align: center;
+  height: calc(100% - 74px);
+}
+.content p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer{
+  padding: 15px 20px;
+  text-align: right;
+  height: 74px;
+  border-top: 1px solid #999;
+}
+.footer button{
+  padding: 8px 15px;
+  text-align: center;
+}

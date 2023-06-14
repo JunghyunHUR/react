@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "writer": "주인장",
+        "img" : "images/Accustic.jpg",
+        "categorya" : "Martin",
+        "categoryb" : "Accustic guitar",
+        "title" : "Martin Guitar",
+        "content": "어쿠스틱 기타입니다.",
+        "wdate" : "2023-06-08"
+    },
+    {
+        "id" : 2,
+        "writer": "주인장",
+        "img" : "images/fender.jpg",
+        "categorya" : "fender",
+        "categoryb" : "StratoCaster guitar",
+        "title" : "Fender Guitar",
+        "content": "스트라토캐스터 기타입니다.",
+        "wdate" : "2023-06-08"
+    },
+    {
+        "id" : 3,
+        "writer": "주인장",
+        "img" : "images/Hollow.jpg",
+        "categorya" : "Gipson",
+        "categoryb" : "Hollowbody guitar",
+        "title" : "Gipson Guitar",
+        "content": "할로우바디 기타입니다.",
+        "wdate" : "2023-06-08"
+    },
+    {
+        "id" : 4,
+        "writer": "주인장",
+        "img" : "images/lespaul2.jpg",
+        "categorya" : "Gipson",
+        "categoryb" : "Lespaul guitar",
+        "title" : "Gipson Guitar",
+        "content": "레스폴 기타입니다.",
+        "wdate" : "2023-06-08"
+    },
+    {
+        "id" : 5,
+        "writer": "주인장",
+        "img" : "images/semiHollow.jpg",
+        "categorya" : "Epiphone",
+        "categoryb" : "semi-Hollow guitar",
+        "title" : "Epiphone Guitar",
+        "content": "세미할로우 기타입니다.",
+        "wdate" : "2023-06-08"
+    },
+    {
+        "id" : 6,
+        "writer": "주인장",
+        "img" : "images/tele.jpg",
+        "categorya" : "Moolon",
+        "categoryb" : "TeleCaster",
+        "title" : "Moolon Guitar",
+        "content": "텔레캐스터 기타입니다.",
+        "wdate" : "2023-06-08"
+    }
+]
